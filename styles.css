@@ -1,0 +1,13 @@
+body {
+    background-image: url('/assests/Earth_bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 1000px;
+    padding: 10;
+    height: 100vh; /* Set height to 100% of viewport height */
+}
+
+
+
+
